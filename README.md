@@ -20,6 +20,6 @@ Hi! My name is **SayanDip Adhikary**, I have created this [Codepen.io](https://c
 
 **Facebook** Click [Here](https://www.facebook.com/sayandip.adhikary.96) **SayanDip Adhikary**
 
-**LinkedIn** Click [Here](https://www.linkedin.com/in/sayandip-adhikary-7359a8199/)**@SayandipAdhikary**
+**LinkedIn** Click [Here](https://www.linkedin.com/in/sayandip-adhikary-7359a8199/) **@SayandipAdhikary**
 
 **Portfolio** Click [Here](https://sayandip2.netlify.app/) **SayanDip Adhikary**
